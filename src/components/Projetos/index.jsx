@@ -8,6 +8,7 @@ export default function Projetos() {
   return (
     <>
       <div className="div-projetos" id="projetos">
+        <h2>Projetos</h2>
         <div class="row row-cols-1 row-cols-md-3 g-4 bg" >
           {
             ipiList.map(({id,img,title,description})=>{
