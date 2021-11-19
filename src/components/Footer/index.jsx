@@ -16,9 +16,9 @@ export default function Projetos() {
           </div>
 
           <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
-            <li className="ms-3"><a className="text-muted icon-footer" href="#"><GoMarkGithub/> </a></li>
-            <li className="ms-3"><a className="text-muted icon-footer" href="#"><SiLinkedin/></a></li>
-            <li className="ms-3"><a className="text-muted icon-footer" href="#"><AiOutlineMail/></a></li>
+            <li className="ms-3"><a className="text-muted icon-footer" href="https://github.com/sophiafiama"><GoMarkGithub/> </a></li>
+            <li className="ms-3"><a className="text-muted icon-footer" href="https://www.linkedin.com/in/sophiafiama/"><SiLinkedin/></a></li>
+            <li className="ms-3"><a className="text-muted icon-footer" href="tomail:fiama.sophia.sf@gmail.com"><AiOutlineMail/></a></li>
           </ul>
         </footer>
       </div>
