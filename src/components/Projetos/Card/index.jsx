@@ -11,9 +11,6 @@ export default function Card({img, title, description}) {
                         <h5 class="card-title">{title}</h5>
                         <p class="card-text">{description}</p>
                     </div>
-                    {/* <div class="card-footer">
-                <small class="text-muted">Last updated 3 mins ago</small>
-              </div> */}
                 </div>
             </div>
 
